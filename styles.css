@@ -49,6 +49,7 @@ p {
 	margin-inline: auto;
 	padding: 2rem;
 	scale: 0.9;
+	overflow: hidden;
 }
 
 header {
